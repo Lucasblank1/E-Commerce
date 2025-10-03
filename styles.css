@@ -48,7 +48,7 @@ img{max-width:100%;display:block}
 
 .hero-media{border-radius:16px;background:linear-gradient(180deg,#0e1420,#0b0f14);padding:14px;border:1px solid #1c2636;box-shadow:0 10px 40px rgba(0,0,0,.3)}
 .hero-media img{border-radius:12px}
-.product-video{max-width:520px;margin:0 auto}
+.product-video{max-width:320px;margin:0 auto}
 
 .features{padding:26px 0 10px}
 .features h2{font-size:28px;margin:0 0 12px}
@@ -85,4 +85,5 @@ img{max-width:100%;display:block}
 	.hero-grid{grid-template-columns:1fr}
 	.purchase-grid{grid-template-columns:1fr}
 } 
+
 
